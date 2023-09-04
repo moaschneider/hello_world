@@ -1,1 +1,1 @@
-Teste
+Meu nome é Moa Schneider, sou tecnólogo de alimentos e atuei por mais de 10 anos como cervejeiro. Desde janeiro de 2023 estou estudando para fazer uma transição de carreira para a área de teconologia, especificamente frontend e backend.
